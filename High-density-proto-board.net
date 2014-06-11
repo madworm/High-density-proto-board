@@ -1,0 +1,9 @@
+(export (version D)
+  (design
+    (source /home/robert/Electronics/Arduino/KiCAD/Projects/Adapters_and_Breakout-Boards/High-density-proto-board/High-density-proto-board.sch)
+    (date "Wed 11 Jun 2014 06:33:27 PM CEST")
+    (tool "Eeschema (2014-06-11 BZR 4938)-product"))
+  (components)
+  (libparts)
+  (libraries)
+  (nets))
