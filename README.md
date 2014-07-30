@@ -4,6 +4,8 @@ High-density-proto-board
 
 LAYOUT FILES: Bread-board like proto-board with 1.27mm raster (50mil).
 
+[![674](/Docs/images/674.jpg)](/Docs/images/674.jpg)
+
 
 ---
 
